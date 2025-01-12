@@ -19,3 +19,8 @@ The software which handles the mentioned tasks is written in a C++/OpenGL
 environment using a few supporting libraries: GLEW for linking the graphical functions,
 GLFW for window/event handling, GLM for mathematical datatypes/functions and last
 but not least Dear ImGui for a graphical user interface.
+
+![vid1](https://github.com/user-attachments/assets/2a74426f-6665-47dd-884c-33e67a4fa5e3)
+
+![vid4](https://github.com/user-attachments/assets/598698a7-a00d-4cb6-90a7-aa880a322c70)
+
