@@ -1,0 +1,8 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.10.2014 18:04:59
+
+newmtl Cube
+	map_Ka Cube_ambient.jpg
+    map_Kd Cube_diffuse.jpg
+    map_Ks Cube_specular.jpg
+    bump Cube_normal.jpg 
